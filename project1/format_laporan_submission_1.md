@@ -40,7 +40,7 @@ Semua poin di atas harus diuraikan dengan jelas. Anda bebas menuliskan berapa pe
     - Solusi yang diberikan harus dapat terukur dengan metrik evaluasi. -->
 
 ## Data Understanding
-Data yang digunakan merupakan data [Football Players Datasets 2015 - 2024](https://www.kaggle.com/datasets/abdulmalik1518/football-players-datasets-2015-2024/) yang bersumber dari [Kaggle](https://www.kaggle.com/). Dataset ini merupakan data yang dipublikasikan pada 29 Juli 2024. Berikut penjelasan seluruh variabel dalam dataset :
+Data yang digunakan merupakan data [Football Players Datasets 2015 - 2024](https://www.kaggle.com/datasets/abdulmalik1518/football-players-datasets-2015-2024/) yang bersumber dari [Kaggle](https://www.kaggle.com/). Dataset ini merupakan data yang dipublikasikan pada 29 Juli 2024 oleh [Abdul Malik](https://www.kaggle.com/abdulmalik1518). Berikut penjelasan seluruh fitur dalam dataset :
 
 ### Fitur pada Football Players Datasets 2015 - 2024 
 - Teams           : Nama klub sepak bola di mana pemain tersebut bernaung selama musim tersebut.
