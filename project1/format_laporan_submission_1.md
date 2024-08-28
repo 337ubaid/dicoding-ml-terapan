@@ -2,7 +2,7 @@
 
 
 ## Domain Proyek
-Sepakbola merupakan salah satu olahraga yang sangat populer dengan berbagai penggemar di seluruh dunia ([Artnzen, 2021](https://himolde.brage.unit.no/himolde-xmlui/bitstream/handle/11250/3036758/smj_team_vs_players_R2.pdf?sequence=2)). Evaluasi pemain perlu dilakukan untuk memperbaiki kelemahan dan meningkatkan potensi dari tim. Evaluasi tidak dapat dilakukan secara subjektif pelatih, tetapi harus dilakukan secara objektif dan ilmiah berdasarkan statistik yang ada di lapangan. Penilaian ini dapat dilakukan dengan analisis statistik dengan memprediksi rating musim sehingga membantu dalam memahami kontribusi pemain terhadap kinerja tim. 
+Sepakbola merupakan salah satu olahraga yang sangat populer dengan berbagai penggemar di seluruh dunia ([Artnzen, 2021](https://himolde.brage.unit.no/himolde-xmlui/bitstream/handle/11250/3036758/smj_team_vs_players_R2.pdf?sequence=2)). Salah satu posisi paling penting dalam sepakbola adalah posisi penyerang. Performa penyerang dapat dinilai dari goal dan assist yang diberikan. Evaluasi pemain perlu dilakukan untuk memperbaiki kelemahan dan meningkatkan potensi dari tim. Evaluasi tidak dapat dilakukan secara subjektif pelatih, tetapi harus dilakukan secara objektif dan ilmiah berdasarkan statistik yang ada di lapangan. Penilaian ini dapat dilakukan dengan analisis statistik dengan memprediksi rating musim sehingga membantu dalam memahami kontribusi pemain terhadap kinerja tim. 
 
 <!-- 
 **Rubrik/Kriteria Tambahan (Opsional)**:
@@ -17,18 +17,11 @@ menjelaskan proses klarifikasi masalah.
 Bagian laporan ini mencakup:
 
 ### Problem Statements
-
-Menjelaskan pernyataan masalah latar belakang:
-- Pernyataan Masalah 1
-- Pernyataan Masalah 2
-- Pernyataan Masalah n
+- Bagaimana cara mengevaluasi performa penyerang dari tim sepakbola?
+- 
 
 ### Goals
-
-Menjelaskan tujuan dari pernyataan masalah:
-- Jawaban pernyataan masalah 1
-- Jawaban pernyataan masalah 2
-- Jawaban pernyataan masalah n
+- Mengetahui dan memprediksi hasil evalusi dari posisi penyerang sepakbola.
 
 Semua poin di atas harus diuraikan dengan jelas. Anda bebas menuliskan berapa pernyataan masalah dan juga goals yang diinginkan.
 
